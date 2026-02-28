@@ -115,7 +115,7 @@ python --version
 Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/dynamic-pathfinding-agent.git
+git clone https://github.com/MaryamZahid-gh/AI_A-Search_GBFS
 cd dynamic-pathfinding-agent
 ```
 
